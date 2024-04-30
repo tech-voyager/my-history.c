@@ -11,3 +11,8 @@ In fact, this was done for my motivation to learn C and possibly C++.
 - [x] Functions and procedures have been studied.
 - [x] Basic cycles.
 - [ ] More extensive topics
+
+## Wiki
+
+- [part1](https://github.com/tech-voyager/my-history.c/tree/main/wiki/part1)
+- [part2] WRITING!
