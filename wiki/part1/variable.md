@@ -42,7 +42,7 @@ int main() {
 
 *%d -> Declarative for outputting integer values*
 
-*In order to add a revob to a novub line, do the following:**
+*Let's add the following changes:**
 ```patch
 - printf("Hello!");
 + printf("Hello!\n"); // add a newline character
